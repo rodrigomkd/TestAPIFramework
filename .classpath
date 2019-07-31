@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_221"/>
+	<classpathentry kind="lib" path="lib/rest-assured-4.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-2.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-json-2.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/groovy-xml-2.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-core-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/hamcrest-library-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="lib/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="lib/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/testng-6.7.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/opencsv-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-text-1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
